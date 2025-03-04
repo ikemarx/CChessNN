@@ -10,7 +10,7 @@ CChessNN é uma rede neural convolucional (CNN) projetada para aprender a avalia
 ### **1. Instale o Miniconda**  
 Miniconda é uma versão leve do Anaconda, que gerencia ambientes virtuais e pacotes de forma eficiente.  
 
-1. Instale o Miniconda: [Miniconda quick command line install](https://docs.anaconda.com/miniconda/install/#quick-command-line-install)   
+1. Instale o Miniconda: [Miniconda quick command line install](https://www.anaconda.com/docs/getting-started/miniconda/install#quickstart-install-instructions)   
 
 2. Após a instalação, abra o terminal (ou Anaconda Prompt no Windows) e confirme que o `conda` está instalado:  
    ```bash
